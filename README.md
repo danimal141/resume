@@ -1,4 +1,4 @@
-# danimal141 resume
+# danimal141's resume
 
 This is based on [kawamataryo/resume-template](https://github.com/kawamataryo/resume-template). Thank you for the template!
 
@@ -11,7 +11,7 @@ Automatic proofreading with [textlint](https://github.com/textlint/textlint).
 ```
 $ yarn lint --fix
 ```
-It is also automatically executed when pre-commit by [husky](https://github.com/typicode/husky).
+It is also automatically executed when pre-commit by [simple-git-hooks](https://github.com/toplenboren/simple-git-hooks).
 proofreading rules are set with `.textlintrc`.
 
 
