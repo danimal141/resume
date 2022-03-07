@@ -4,6 +4,14 @@ This is based on [kawamataryo/resume-template](https://github.com/kawamataryo/re
 
 ## Features
 
+### Insert table of contents
+
+You can insert table of contents with [doctoc](https://github.com/thlorenz/doctoc).
+
+```
+$ yarn doctoc
+```
+
 ### 💅 Lint text
 
 Automatic proofreading with [textlint](https://github.com/textlint/textlint).
