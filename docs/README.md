@@ -8,12 +8,12 @@
 - 趣味： 映画鑑賞 / アニメ鑑賞 / 音楽鑑賞 / カラオケ / 料理 / 飲酒 / 読書
 
 ## アカウント
-- GitHub: https://github.com/danimal141
-- Twitter: https://twitter.com/danimal141
-- はてなブログ： https://dangerous-animal141.hatenablog.com/
-- 英語ブログ： https://dev.to/danimal141
-- SpeakerDeck: https://speakerdeck.com/danimal141
-- connpass: https://connpass.com/user/danimal141/
+- [GitHub](https://github.com/danimal141)
+- [Twitter](https://twitter.com/danimal141)
+- [はてなブログ](https://dangerous-animal141.hatenablog.com/)
+- [dev.to](https://dev.to/danimal141)
+- [SpeakerDeck](https://speakerdeck.com/danimal141)
+- [connpass](https://connpass.com/user/danimal141/)
 
 ## 資格
 - 基本情報技術者試験 (2015 年 11 月）
