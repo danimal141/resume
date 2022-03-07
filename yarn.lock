@@ -1174,11 +1174,6 @@ https-proxy-agent@^4.0.0:
     agent-base "5"
     debug "4"
 
-husky@^5.0.0-alpha.6:
-  version "5.0.0-alpha.6"
-  resolved "https://registry.yarnpkg.com/husky/-/husky-5.0.0-alpha.6.tgz#0fb8e9d102600e23983692bcf010eeb282dfd21a"
-  integrity sha512-Ofqq0oHLCO0r8hTb/1PQ3FAfsW945adUli8jFTeXdOIK8gCUmxY9A0BI0mG9oGboPf+Y53bvEmX6ljdrz+yV6w==
-
 iconv-lite@0.5.1:
   version "0.5.1"
   resolved "https://registry.yarnpkg.com/iconv-lite/-/iconv-lite-0.5.1.tgz#b2425d3c7b18f7219f2ca663d103bddb91718d64"
@@ -2449,6 +2444,11 @@ signal-exit@^3.0.2:
   version "3.0.3"
   resolved "https://registry.yarnpkg.com/signal-exit/-/signal-exit-3.0.3.tgz#a1410c2edd8f077b08b4e253c8eacfcaf057461c"
   integrity sha512-VUJ49FC8U1OxwZLxIbTTrDvLnf/6TDgxZcK8wxR8zs13xpx7xbG60ndBlhNrFi2EMuFRoeDoJO7wthSLq42EjA==
+
+simple-git-hooks@^2.7.0:
+  version "2.7.0"
+  resolved "https://registry.yarnpkg.com/simple-git-hooks/-/simple-git-hooks-2.7.0.tgz#121a5c3023663b8abcc5648c8bfe8619dc263705"
+  integrity sha512-nQe6ASMO9zn5/htIrU37xEIHGr9E6wikXelLbOeTcfsX2O++DHaVug7RSQoq+kO7DvZTH37WA5gW49hN9HTDmQ==
 
 slice-ansi@0.0.4:
   version "0.0.4"
