@@ -5,7 +5,7 @@
   "scripts": {
     "lint": "textlint docs/README.md",
     "build:pdf": "md-to-pdf docs/README.md --config-file ./pdf-configs/config.js",
-    "prepare-hooks": "simple-git-hooks",
+    "prepare": "simple-git-hooks",
     "doctoc": "doctoc docs/README.md"
   },
   "simple-git-hooks": {
