@@ -96,7 +96,7 @@
     },
     "preset-ja-spacing": {
       "ja-space-between-half-and-full-width": {
-        "space": "always"
+        "space": "never"
       },
       "ja-space-around-code": false,
       "ja-no-space-between-full-width": true,
