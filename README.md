@@ -12,7 +12,7 @@ You can insert table of contents with [doctoc](https://github.com/thlorenz/docto
 $ yarn doctoc
 ```
 
-### 💅 Lint text
+### Lint text
 
 Automatic proofreading with [textlint](https://github.com/textlint/textlint).
 
@@ -24,7 +24,7 @@ proofreading rules are set with `.textlintrc`.
 
 
 
-### 📝 Convert MD to PDF
+### Convert MD to PDF
 
 You can generate PDF with [md-to-pdf](https://www.npmjs.com/package/md-to-pdf).
 
@@ -35,7 +35,7 @@ $ yarn build:pdf
 
 The output PDF can be styled as you like with CSS. Edit the `pdf-configs/style.css`.
 
-### 🛠 Create release
+### Create release
 
 When you push with a `v**` tag, GitHub Actions will run the build, generate the PDF, create a Release, and register the PDF to Assets.
 
