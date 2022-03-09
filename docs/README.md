@@ -90,12 +90,12 @@ TODO: アップデート
 ##### 技術
 - Web
   - Ruby on Rails
-  - Marionette.js
-    - CoffeeScript
   - React.js
     - JavaScript / TypeScript
     - Redux
     - RxJS / redux-observable
+  - Marionette.js
+    - CoffeeScript
   - Redis
   - Solr
   - PostgreSQL
