@@ -63,6 +63,8 @@
 ## アカウント
 - [GitHub](https://github.com/danimal141)
 - [Twitter](https://twitter.com/danimal141)
+- [Zenn](https://zenn.dev/danimal141)
+- [note](https://note.com/danimal141)
 - [はてなブログ](https://dangerous-animal141.hatenablog.com/)
 - [dev.to](https://dev.to/danimal141)
 - [SpeakerDeck](https://speakerdeck.com/danimal141)
