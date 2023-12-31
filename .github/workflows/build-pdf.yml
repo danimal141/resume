@@ -8,12 +8,12 @@ on:
 jobs:
   build:
     name: build pdf and upload release
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-20.04
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v2-beta
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
-          node-version: '14'
+          node-version: '18'
       - run: npm install
       - name: build pdf
         run: npm run build:pdf
