@@ -126,8 +126,8 @@ SNS、メディア上のファッションデータを定期的にクローリ�
 - React.js
 - GraphQL
 - Next.js
-- Auth0
 - Docker
+- Kubernetes
 - AWS
 - MySQL
 - PostgreSQL
