@@ -219,7 +219,8 @@ https://dangerous-animal141.hatenablog.com/entry/2019/10/06/190000
 ### 資格
 - 基本情報技術者試験 (2015年11月）
 
-### 資料
+### アウトプット
 - [英語で1on1ミーティングができるようになるまでにやったこと](https://dangerous-animal141.hatenablog.com/entry/2019/10/06/190000)
-- [事業に向き合い続けたい私は、それでもRailsを使い続ける](https://speakerdeck.com/danimal141/shi-ye-nixiang-kihe-isok-ketaisi-ha-soredemorailswoshi-isok-keru)
+- [「事業に向き合い続けたい私は、それでもRailsを使い続ける」というタイトルでKaigi on Rails 2021に登壇しました](https://tech.speee.jp/entry/2021/10/25/142838)
 - [エンジニアとして事業に貢献するとは「Why-What-Howの一貫性を保ちながら、技術意思決定を積み重ねること」である](https://tech.speee.jp/entry/why-what-how-engineering)
+- [エンジニアリングマネージャーガイドライン](https://note.com/danimal141/n/n7e5fd7d1f1d7)
