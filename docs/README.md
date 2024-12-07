@@ -20,26 +20,26 @@
   - [ストレングスファインダー](#%E3%82%B9%E3%83%88%E3%83%AC%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%95%E3%82%A1%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC)
   - [16personalities](#16personalities)
   - [資格](#%E8%B3%87%E6%A0%BC)
-  - [資料](#%E8%B3%87%E6%96%99)
+  - [過去アウトプット](#%E9%81%8E%E5%8E%BB%E3%82%A2%E3%82%A6%E3%83%88%E3%83%97%E3%83%83%E3%83%88)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## プロフィール
-- ID: `@danimal141`
-- 生年月日： 1986/12/04
-- 出身地： 京都府
-- 居住地： 東京都
-- 最終学歴： 京都工芸繊維大学大学院 生体分子工学専攻 (2012年3月卒業）
+* ID: `@danimal141`
+* 生年月日： 1986/12/04
+* 出身地： 京都府
+* 居住地： 東京都
+* 最終学歴： 京都工芸繊維大学大学院 生体分子工学専攻 (2012年3月卒業）
 
 ## アカウント
-- [GitHub](https://github.com/danimal141)
-- [Twitter / X](https://twitter.com/danimal141)
-- [Zenn](https://zenn.dev/danimal141)
-- [note](https://note.com/danimal141)
-- [しずかなインターネット](https://sizu.me/danimal141)
-- [dev.to](https://dev.to/danimal141)
-- [SpeakerDeck](https://speakerdeck.com/danimal141)
-- [connpass](https://connpass.com/user/danimal141/)
+* [GitHub](https://github.com/danimal141)
+* [Twitter / X](https://twitter.com/danimal141)
+* [Zenn](https://zenn.dev/danimal141)
+* [note](https://note.com/danimal141)
+* [しずかなインターネット](https://sizu.me/danimal141)
+* [dev.to](https://dev.to/danimal141)
+* [SpeakerDeck](https://speakerdeck.com/danimal141)
+* [connpass](https://connpass.com/user/danimal141/)
 
 ## 職務経歴
 ### サマリ
@@ -192,18 +192,18 @@ https://dangerous-animal141.hatenablog.com/entry/2019/10/06/190000
 事業や組織のフェーズや直面している課題に応じて「自分が何をすべきか」を考え、一番レバレッジの効く戦い方で成果を出せることが強みだと思います。どうぞよろしくお願いいたします。
 
 ### 技術スタック
-- Ruby / Ruby on Rails
-- TypeScript / JavaScript
-- HTML / CSS
-- React.js
-- GraphQL
-- Next.js
-- Docker
-- Kubernetes
-- AWS
-- MySQL
-- PostgreSQL
-- Redis
+* Ruby / Ruby on Rails
+* TypeScript / JavaScript
+* HTML / CSS
+* React.js
+* GraphQL
+* Next.js
+* Docker
+* Kubernetes
+* AWS
+* MySQL
+* PostgreSQL
+* Redis
 
 ### 興味関心
 成果を出すために必要なことは何でもやりますが、強いて言うなら現場レイヤーよりはマネジメント・経営レイヤーに軸足を置いた事業・組織課題の解決に貢献したいです。開発組織や戦略を作って、成果が出るまで徹底的にオペレーションを磨いたり、生成AIのようなテクノロジーによって組織全体で大幅な開発生産性向上を狙ったり、そういった活動に関心があります。
@@ -213,15 +213,16 @@ https://dangerous-animal141.hatenablog.com/entry/2019/10/06/190000
 ![sf2](./images/sf2.png)
 
 ### 16personalities
-![16per](./images/16per.png)
+![16per1](./images/16per1.png)
+![16per2](./images/16per2.png)
 
 ### 資格
-- 基本情報技術者試験 (2015年11月）
+* 基本情報技術者試験 (2015年11月）
 
 ### 過去アウトプット
-- [英語で1on1ミーティングができるようになるまでにやったこと](https://note.com/danimal141/n/n454308e5cda0)
-- [「事業に向き合い続けたい私は、それでもRailsを使い続ける」というタイトルでKaigi on Rails 2021に登壇しました](https://tech.speee.jp/entry/2021/10/25/142838)
-- [エンジニアとして事業に貢献するとは「Why-What-Howの一貫性を保ちながら、技術意思決定を積み重ねること」である](https://tech.speee.jp/entry/why-what-how-engineering)
-- [エンジニアリングマネージャーガイドライン](https://note.com/danimal141/n/n7e5fd7d1f1d7)
-- [事業と技術のバイリンガル集団を目指して - DX事業本部が描くエンジニアの事業貢献モデル -](https://tech.speee.jp/entry/biz-tech-bilinguals)
-- [常に目的を見失わずにいたい。EMとして開発文化を作るために取り組んでいること](https://tech.speee.jp/entry/build-dev-culture)
+* [英語で1on1ミーティングができるようになるまでにやったこと](https://note.com/danimal141/n/n454308e5cda0)
+* [「事業に向き合い続けたい私は、それでもRailsを使い続ける」というタイトルでKaigi on Rails 2021に登壇しました](https://tech.speee.jp/entry/2021/10/25/142838)
+* [エンジニアとして事業に貢献するとは「Why-What-Howの一貫性を保ちながら、技術意思決定を積み重ねること」である](https://tech.speee.jp/entry/why-what-how-engineering)
+* [エンジニアリングマネージャーガイドライン](https://note.com/danimal141/n/n7e5fd7d1f1d7)
+* [事業と技術のバイリンガル集団を目指して * DX事業本部が描くエンジニアの事業貢献モデル -](https://tech.speee.jp/entry/biz-tech-bilinguals)
+* [常に目的を見失わずにいたい。EMとして開発文化を作るために取り組んでいること](https://tech.speee.jp/entry/build-dev-culture)
