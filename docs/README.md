@@ -20,7 +20,7 @@
   - [ストレングスファインダー](#%E3%82%B9%E3%83%88%E3%83%AC%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%95%E3%82%A1%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC)
   - [16personalities](#16personalities)
   - [資格](#%E8%B3%87%E6%A0%BC)
-- [過去アウトプット](#%E9%81%8E%E5%8E%BB%E3%82%A2%E3%82%A6%E3%83%88%E3%83%97%E3%83%83%E3%83%88)
+- [アウトプット](#%E3%82%A2%E3%82%A6%E3%83%88%E3%83%97%E3%83%83%E3%83%88)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -219,7 +219,7 @@ https://dangerous-animal141.hatenablog.com/entry/2019/10/06/190000
 ### 資格
 * 基本情報技術者試験 (2015年11月）
 
-## 過去アウトプット
+## アウトプット
 * [留学経験のないエンジニアが英語で1on1できるようになるまでにやったこと](https://note.com/danimal141/n/n454308e5cda0)
 * [「事業に向き合い続けたい私は、それでもRailsを使い続ける」というタイトルでKaigi on Rails 2021に登壇しました](https://tech.speee.jp/entry/2021/10/25/142838)
 * [エンジニアとして事業に貢献するとは「Why-What-Howの一貫性を保ちながら、技術意思決定を積み重ねること」である](https://tech.speee.jp/entry/why-what-how-engineering)
