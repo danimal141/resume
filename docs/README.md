@@ -219,7 +219,7 @@ https://dangerous-animal141.hatenablog.com/entry/2019/10/06/190000
 ### 資格
 * 基本情報技術者試験 (2015年11月）
 
-### 過去アウトプット
+## 過去アウトプット
 * [留学経験のないエンジニアが英語で1on1できるようになるまでにやったこと](https://note.com/danimal141/n/n454308e5cda0)
 * [「事業に向き合い続けたい私は、それでもRailsを使い続ける」というタイトルでKaigi on Rails 2021に登壇しました](https://tech.speee.jp/entry/2021/10/25/142838)
 * [エンジニアとして事業に貢献するとは「Why-What-Howの一貫性を保ちながら、技術意思決定を積み重ねること」である](https://tech.speee.jp/entry/why-what-how-engineering)
