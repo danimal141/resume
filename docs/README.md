@@ -224,5 +224,5 @@ https://dangerous-animal141.hatenablog.com/entry/2019/10/06/190000
 * [「事業に向き合い続けたい私は、それでもRailsを使い続ける」というタイトルでKaigi on Rails 2021に登壇しました](https://tech.speee.jp/entry/2021/10/25/142838)
 * [エンジニアとして事業に貢献するとは「Why-What-Howの一貫性を保ちながら、技術意思決定を積み重ねること」である](https://tech.speee.jp/entry/why-what-how-engineering)
 * [エンジニアリングマネージャーガイドライン](https://note.com/danimal141/n/n7e5fd7d1f1d7)
-* [事業と技術のバイリンガル集団を目指して * DX事業本部が描くエンジニアの事業貢献モデル -](https://tech.speee.jp/entry/biz-tech-bilinguals)
+* [事業と技術のバイリンガル集団を目指して - DX事業本部が描くエンジニアの事業貢献モデル -](https://tech.speee.jp/entry/biz-tech-bilinguals)
 * [常に目的を見失わずにいたい。EMとして開発文化を作るために取り組んでいること](https://tech.speee.jp/entry/build-dev-culture)
