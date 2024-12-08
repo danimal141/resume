@@ -20,7 +20,7 @@
   - [ストレングスファインダー](#%E3%82%B9%E3%83%88%E3%83%AC%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%95%E3%82%A1%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC)
   - [16personalities](#16personalities)
   - [資格](#%E8%B3%87%E6%A0%BC)
-  - [過去アウトプット](#%E9%81%8E%E5%8E%BB%E3%82%A2%E3%82%A6%E3%83%88%E3%83%97%E3%83%83%E3%83%88)
+- [過去アウトプット](#%E9%81%8E%E5%8E%BB%E3%82%A2%E3%82%A6%E3%83%88%E3%83%97%E3%83%83%E3%83%88)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
