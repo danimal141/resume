@@ -227,3 +227,4 @@
 * [エンジニアリングマネージャーガイドライン](https://note.com/danimal141/n/n7e5fd7d1f1d7)
 * [事業と技術のバイリンガル集団を目指して - DX事業本部が描くエンジニアの事業貢献モデル -](https://tech.speee.jp/entry/biz-tech-bilinguals)
 * [常に目的を見失わずにいたい。EMとして開発文化を作るために取り組んでいること](https://tech.speee.jp/entry/build-dev-culture)
+* [良いコードレビューとは](https://zenn.dev/danimal141/articles/a907e3d35561a0)
