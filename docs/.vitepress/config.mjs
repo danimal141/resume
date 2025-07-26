@@ -5,8 +5,11 @@ export default defineConfig({
   lang: "ja",
   title: "danimal141's resume",
   description: "私の経歴・スキル・アウトプットをまとめたレジュメサイトです",
+  srcDir: "./",
+  outDir: "./.vitepress/dist",
 
   head: [
+    ["link", { rel: "icon", type: "image/x-icon", href: "/resume/favicon.ico" }],
     ["link", { rel: "preconnect", href: "https://fonts.googleapis.com" }],
     [
       "link",
@@ -114,6 +117,23 @@ export default defineConfig({
     // カスタムCSSを確実に読み込む
     optimizeDeps: {
       include: [],
+    },
+    build: {
+      // アセットのインライン化を防ぐ
+      assetsInlineLimit: 0,
+      // チャンクサイズの警告を増やす
+      chunkSizeWarningLimit: 1000,
+      // ロールアップのオプション
+      rollupOptions: {
+        output: {
+          // アセットファイル名のパターンを固定
+          assetFileNames: 'assets/[name]-[hash][extname]',
+          // チャンクファイル名のパターンを固定
+          chunkFileNames: 'assets/[name]-[hash].js',
+          // エントリーファイル名のパターンを固定
+          entryFileNames: 'assets/[name]-[hash].js',
+        },
+      },
     },
   },
 
