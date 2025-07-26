@@ -2,7 +2,7 @@ import DefaultTheme from 'vitepress/theme'
 import './custom.css'
 
 export default {
-  extends: DefaultTheme,
+  ...DefaultTheme,
   enhanceApp({ app, router, siteData }) {
     // カスタムコンポーネントがあればここで登録
   }

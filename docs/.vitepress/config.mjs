@@ -9,7 +9,14 @@ export default defineConfig({
   head: [
     ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
     ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }],
-    ['link', { href: 'https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+JP:wght@400;500;700&display=swap', rel: 'stylesheet' }]
+    ['link', { href: 'https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+JP:wght@400;500;700&display=swap', rel: 'stylesheet' }],
+    ['style', {}, `:root {
+      --vp-c-brand-1: #1e3a8a;
+      --vp-c-brand-2: #1e40af;
+      --vp-c-brand-3: #1d4ed8;
+      --vp-c-brand-soft: rgba(30, 58, 138, 0.14);
+      --vp-font-family-base: 'Inter', 'Noto Sans JP', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    }`]
   ],
 
   themeConfig: {
@@ -70,6 +77,10 @@ export default defineConfig({
           additionalData: ''
         }
       }
+    },
+    // カスタムCSSを確実に読み込む
+    optimizeDeps: {
+      include: []
     }
   },
 
