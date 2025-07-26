@@ -39,9 +39,7 @@
       "no-invalid-control-character": false,
       "no-exclamation-question-mark": false,
       "no-hankaku-kana": true,
-      "ja-no-weak-phrase": {
-        "severity": "warning"
-      },
+      "ja-no-weak-phrase": false,
       "ja-no-successive-word": true,
       "ja-no-abusage": true,
       "ja-no-redundant-expression": {
