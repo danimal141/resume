@@ -1,0 +1,286 @@
+/* カスタムテーマ */
+:root {
+  /* ブランドカラー */
+  --vp-c-brand-1: #646cff;
+  --vp-c-brand-2: #535bf2;
+  --vp-c-brand-3: #4349e8;
+  --vp-c-brand-soft: rgba(100, 108, 255, 0.14);
+
+  /* カスタムカラー */
+  --vp-c-bg: #ffffff;
+  --vp-c-bg-soft: #f9f9f9;
+  --vp-c-bg-mute: #f1f1f1;
+  --vp-c-bg-alt: #f6f6f6;
+
+  /* テキストカラー */
+  --vp-c-text-1: #213547;
+  --vp-c-text-2: #476573;
+  --vp-c-text-3: #90969c;
+
+  /* フォント設定 */
+  --vp-font-family-base: 'Inter', 'Noto Sans JP', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  --vp-font-family-mono: 'Fira Code', 'SF Mono', Monaco, Consolas, 'Courier New', monospace;
+}
+
+/* ダークモード */
+.dark {
+  --vp-c-bg: #1a1a1a;
+  --vp-c-bg-soft: #1f1f1f;
+  --vp-c-bg-mute: #2a2a2a;
+  --vp-c-bg-alt: #181818;
+
+  --vp-c-text-1: #ffffff;
+  --vp-c-text-2: #b8b8b8;
+  --vp-c-text-3: #8b8b8b;
+
+  --vp-c-brand-1: #818cf8;
+  --vp-c-brand-2: #a78bfa;
+  --vp-c-brand-3: #c4b5fd;
+}
+
+/* レイアウト調整 */
+.VPDoc .container {
+  max-width: 960px !important;
+}
+
+.VPContent {
+  padding-top: 48px !important;
+}
+
+/* ヘッダースタイル */
+.VPNav {
+  backdrop-filter: blur(12px);
+  background-color: rgba(255, 255, 255, 0.8);
+  border-bottom: 1px solid var(--vp-c-divider);
+}
+
+.dark .VPNav {
+  background-color: rgba(26, 26, 26, 0.8);
+}
+
+/* タイトルスタイル */
+h1 {
+  font-size: 2.5rem !important;
+  font-weight: 700 !important;
+  letter-spacing: -0.02em !important;
+  line-height: 1.2 !important;
+  margin: 2rem 0 1.5rem !important;
+  background: linear-gradient(120deg, var(--vp-c-brand-1), var(--vp-c-brand-2));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+h2 {
+  font-size: 1.875rem !important;
+  font-weight: 600 !important;
+  margin: 2.5rem 0 1rem !important;
+  padding-top: 1.5rem !important;
+  border-top: 1px solid var(--vp-c-divider);
+}
+
+h3 {
+  font-size: 1.375rem !important;
+  font-weight: 600 !important;
+  margin: 1.5rem 0 0.75rem !important;
+}
+
+h4 {
+  font-size: 1.125rem !important;
+  font-weight: 600 !important;
+  margin: 1.25rem 0 0.5rem !important;
+}
+
+/* パラグラフスタイル */
+p {
+  line-height: 1.8;
+  margin: 1rem 0;
+}
+
+/* リストスタイル */
+ul, ol {
+  margin: 1rem 0;
+  padding-left: 2rem;
+}
+
+li {
+  margin: 0.5rem 0;
+  line-height: 1.7;
+}
+
+/* リンクスタイル */
+a {
+  color: var(--vp-c-brand-1);
+  text-decoration: none;
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+a:hover {
+  color: var(--vp-c-brand-2);
+}
+
+.VPContent a:not(.VPButton):hover {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+
+/* コードブロック */
+.vp-code {
+  border-radius: 8px;
+  margin: 1rem 0;
+}
+
+code {
+  font-family: var(--vp-font-family-mono);
+  font-size: 0.875em;
+  background-color: var(--vp-c-bg-mute);
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+}
+
+/* ブロッククォート */
+blockquote {
+  margin: 1.5rem 0;
+  padding: 1rem 1.5rem;
+  border-left: 4px solid var(--vp-c-brand-1);
+  background-color: var(--vp-c-bg-soft);
+  border-radius: 0 8px 8px 0;
+}
+
+/* テーブル */
+table {
+  width: 100%;
+  margin: 1.5rem 0;
+  border-collapse: collapse;
+  overflow: hidden;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+th {
+  background-color: var(--vp-c-bg-mute);
+  font-weight: 600;
+  text-align: left;
+  padding: 0.75rem 1rem;
+}
+
+td {
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid var(--vp-c-divider);
+}
+
+tr:last-child td {
+  border-bottom: none;
+}
+
+/* 画像スタイル */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin: 1.5rem 0;
+}
+
+/* カスタムコンテナ */
+.custom-block {
+  margin: 1.5rem 0;
+  padding: 1rem 1.5rem;
+  border-radius: 8px;
+  border: 1px solid var(--vp-c-divider);
+}
+
+.custom-block.tip {
+  background-color: var(--vp-c-brand-soft);
+  border-color: var(--vp-c-brand-1);
+}
+
+/* フッター */
+.VPFooter {
+  margin-top: 4rem;
+  padding: 2rem 0;
+  border-top: 1px solid var(--vp-c-divider);
+}
+
+/* アニメーション */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.VPContent > div > * {
+  animation: fadeIn 0.6s ease-out;
+}
+
+/* レスポンシブデザイン */
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2rem !important;
+  }
+
+  h2 {
+    font-size: 1.5rem !important;
+  }
+
+  h3 {
+    font-size: 1.25rem !important;
+  }
+
+  .VPDoc .container {
+    padding: 0 1.5rem;
+  }
+}
+
+/* スクロールバー */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--vp-c-bg-soft);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--vp-c-text-3);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--vp-c-text-2);
+}
+
+/* プリント対応 */
+@media print {
+  .VPNav,
+  .VPFooter,
+  .VPDocOutline {
+    display: none !important;
+  }
+
+  .VPContent {
+    padding: 0 !important;
+  }
+
+  body {
+    font-size: 12pt;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    page-break-after: avoid;
+  }
+
+  img {
+    max-width: 100% !important;
+    page-break-inside: avoid;
+  }
+}
