@@ -22,7 +22,7 @@ head:
 
 ## アカウント
 * [GitHub](https://github.com/danimal141)
-* [Twitter / X](https://x.com/danimal141)
+* [Twitter / X](https://twitter.com/danimal141)
 * [Zenn](https://zenn.dev/danimal141)
 * [note](https://note.com/danimal141)
 * [しずかなインターネット](https://sizu.me/danimal141)
