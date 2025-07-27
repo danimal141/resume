@@ -209,6 +209,12 @@ head:
 
 ### 個人アウトプット
 * [エンジニアリングマネージャーガイドライン](https://note.com/danimal141/n/n7e5fd7d1f1d7)
+* [マネジメントの本質と人間の本能の間に発生するバグ](https://sizu.me/danimal141/posts/xdz9hnu36iff)
 * [留学経験のないエンジニアが英語で1on1できるようになるまでにやったこと](https://note.com/danimal141/n/n454308e5cda0)
+* [新卒エンジニアのキャリアについて](https://note.com/danimal141/n/n4a778eb4979f)
 * [キャリアは具体と抽象の螺旋階段を登ることで築かれるのではという話](https://note.com/danimal141/n/na14d687bcdd9)
 * [良いコードレビューとは](https://zenn.dev/danimal141/articles/a907e3d35561a0)
+
+### 登壇
+* [良いコードレビューとは](https://speakerdeck.com/danimal141/liang-ikodorebiyutoha)
+* [事業に向き合い続けたい私は、それでもRailsを使い続ける](https://speakerdeck.com/danimal141/shi-ye-nixiang-kihe-isok-ketaisi-ha-soredemorailswoshi-isok-keru)
