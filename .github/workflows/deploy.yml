@@ -33,6 +33,14 @@ jobs:
         run: npm ci
       - name: Build with VitePress
         run: npm run build
+      - name: Ensure .nojekyll exists
+        run: |
+          if [ ! -f docs/.vitepress/dist/.nojekyll ]; then
+            touch docs/.vitepress/dist/.nojekyll
+            echo ".nojekyll file created"
+          else
+            echo ".nojekyll file already exists"
+          fi
       - name: Verify build output
         run: |
           echo "Checking build output..."

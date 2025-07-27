@@ -121,6 +121,9 @@ export default defineConfig({
       assetsInlineLimit: 0,
       // チャンクサイズの警告を増やす
       chunkSizeWarningLimit: 1000,
+      // GitHub Pages向けの最適化
+      minify: 'esbuild',
+      target: 'esnext',
     },
   },
 
